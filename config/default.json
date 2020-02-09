@@ -1,0 +1,7 @@
+{
+  "Customer": {
+    "dbConfig": {
+      "host": "dev-db-server"
+    }
+  }
+}
