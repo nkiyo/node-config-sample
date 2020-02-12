@@ -1,0 +1,17 @@
+{
+  "john": {
+    "birth": "1940"
+  },
+  "paul": {
+    "birth": "1942"
+  },
+  "george": {
+    "birth": "1943"
+  },
+  "ringo": {
+    "birth": "1940"
+  },
+  "foo": {
+    "birrth": "1940"
+  }
+}
